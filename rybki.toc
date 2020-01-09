@@ -1,0 +1,12 @@
+\contentsline {chapter}{\numberline {1}Karpiowate}{5}%
+\contentsline {section}{\numberline {1.1}Karp}{5}%
+\contentsline {section}{\numberline {1.2}Karaś}{5}%
+\contentsline {section}{\numberline {1.3}Płoć}{5}%
+\contentsline {chapter}{\numberline {2}Okoniowate}{7}%
+\contentsline {section}{\numberline {2.1}Okoń}{7}%
+\contentsline {section}{\numberline {2.2}Sandacz}{7}%
+\contentsline {chapter}{\numberline {3}Łososiowate}{9}%
+\contentsline {section}{\numberline {3.1}Łosoś}{9}%
+\contentsline {section}{\numberline {3.2}Pstrag}{9}%
+\contentsline {section}{\numberline {3.3}Troć}{9}%
+\contentsline {chapter}{\numberline {4}Równania}{11}%
